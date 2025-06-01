@@ -15,7 +15,6 @@ This C++ project implements the **Critical Path Method (CPM)**, a fundamental te
     - [Running the Application](#running-the-application)
 - [Input File Format](#input-file-format)
 - [Output Explained](#output-explained)
-- [Our Development Team](#our-development-team)
 
 ---
 
@@ -124,17 +123,4 @@ All program output will be written to `output.txt`.
 - **Final Task Schedule**: A consolidated table displaying ES, EF, LS, and LF for all tasks.
 - **Critical Paths**: Lists all identified critical paths. Each path is a sequence of task IDs, where any delay in a task on this path will delay the entire project.
 - **Project Duration**: The total minimum time required to complete the entire project, derived from the maximum Early Finish time of all tasks.
-
----
-
-## Our Development Team
-
-| Name            | GitHub Profile                               |
-| :-------------- | :------------------------------------------- |
-| [Member 1 Name] | [**Replace with actual GitHub profile URL**] |
-| [Member 2 Name] | [**Replace with actual GitHub profile URL**] |
-| [Member 3 Name] | [**Replace with actual GitHub profile URL**] |
-| [Member 4 Name] | [**Replace with actual GitHub profile URL**] |
-| [Member 5 Name] | [**Replace with actual GitHub profile URL**] |
-| [Member 6 Name] | [**Replace with actual GitHub profile URL**] |
 `
