@@ -1,4 +1,4 @@
-# Project Management: Critical Path Method (CPM) Calculator
+# Project Management: Critical Path Method Calculator
 
 This C++ project implements the **Critical Path Method (CPM)**, a fundamental technique in project management. It helps you analyze project tasks, determine their earliest and latest possible start and finish times, identify **critical tasks** (those that cannot be delayed without delaying the entire project), and calculate the **overall project duration**.
 
